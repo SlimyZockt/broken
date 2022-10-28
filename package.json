@@ -1,8 +1,15 @@
 {
   "name": "broken-ts",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "main": "index.js",
   "license": "MIT",
+  "repository": {
+    "url": "https://github.com/SlimyZockt/broken"
+  },
+  "author": {
+    "name": "slimyzockt",
+    "url": "https://github.com/SlimyZockt"
+  },
   "scripts": {
     "dev": "ts-node-dev --respawn src/index.ts",
     "start": "ts-node src/index.ts",
