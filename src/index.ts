@@ -1,4 +1,4 @@
 import lib from './lib'
+const broken = lib
 
-
-export default lib;
+export default broken;
